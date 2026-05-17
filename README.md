@@ -1,6 +1,2 @@
-# NLP_for_SocialScience
-Gangeujaryo&amp;Guaje
+# Zero-Shot Performance and Limitations Analysis of Korean Sentiment Recognition in Multilingual LLM
 
-jeonguamok_A+_degaza~!!!
-
-branch_name=week_name(Chamgo_haso)
